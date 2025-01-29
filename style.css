@@ -9,6 +9,8 @@ div.title {
     background-color: #f05334;
     text-align: center;
     padding: 20px;
+    position: fixed;
+    width: 100%;
 }
 
 div.title h1 {
